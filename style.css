@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Bungee);
+@import url('https://fonts.cdnfonts.com/css/coffee-butter');
+@import url('https://fonts.cdnfonts.com/css/lulo-clean');
+                
 
 /* General Styles */
 body {
@@ -7,22 +10,9 @@ body {
     padding: 0;
 }
 
-/* Hero Section */
-.hero-section {
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    color: white;
-}
-
-/* About Section */
 .about-section {
     background: #f8f9fa;
 }
-
-/* Products Section */
 .products-section .card {
     border: none;
     transition: transform 0.3s ease-in-out;
@@ -31,8 +21,6 @@ body {
 .products-section .card:hover {
     transform: scale(1.05);
 }
-
-/* Contact Section */
 .contact-section {
     background: #f8f9fa;
 }
@@ -48,12 +36,17 @@ footer {
 .navbar{
     min-height: 70px;
 }
-.center-box{
-    position: absolute;
-    justify-content: center;
-    text-align: center;
-}
-.center-txt{
+/* .main-txt-1{
     font-family: 'Lulo Clean', sans-serif;
     letter-spacing: 5px;
+}
+.about-txt{
+    font-family: 'Coffee Butter', sans-serif;
+                                                
+}
+.pro-txt{
+    font-family: 'Coffee Butter', sans-serif;
+} */
+.card-title{
+    font-weight: bolder;
 }
