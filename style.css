@@ -3,7 +3,6 @@
 @import url('https://fonts.cdnfonts.com/css/lulo-clean');
                 
 
-/* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -25,7 +24,7 @@ body {
     background: #f8f9fa;
 }
 
-/* Footer */
+
 footer {
     background-color: #333;
     color: #fff;
@@ -36,17 +35,6 @@ footer {
 .navbar{
     min-height: 70px;
 }
-/* .main-txt-1{
-    font-family: 'Lulo Clean', sans-serif;
-    letter-spacing: 5px;
-}
-.about-txt{
-    font-family: 'Coffee Butter', sans-serif;
-                                                
-}
-.pro-txt{
-    font-family: 'Coffee Butter', sans-serif;
-} */
 .card-title{
     font-weight: bolder;
 }
